@@ -1,0 +1,7 @@
+﻿Js no es un lenguaje orientado a objetos
+No hay tipos de datos 'explicitos'
+Es un lenguaje interpretado, no compilado : 
+
+links: http://devdocs.io/
+https://nodeschool.io/es/
+javascripting verify introduction.js
