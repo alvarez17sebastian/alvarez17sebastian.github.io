@@ -1,0 +1,32 @@
+Foundation .JS
+	Familia de frameworks responsive
+	
+React .JS
+	Permite crear interfaces de usuario y renderiza la parte que utilizamos y no toda la pagina
+	Permite hacer aplicaciones isomorficas ( cliente - servidor )
+	Creado por fb en 2011, competicion de angular que se basa en vista y controladores, mientras que ract solo interfaces
+	
+Polymer
+	Permite extender componentes HTML, osea crear componentes personalizados.
+	Libreria creada por google
+
+VUE JS
+	Codigo progresivo, osea a proyectos existentes
+	Permite tener codigo simple
+	
+JQUERY
+	
+	
+BOOSTRAP
+	
+	
+UNDERSCODE
+	Porporcion conj de metodos y funcionalidaades sin extender
+	
+ANGULAR JS
+	Trabaja con directivas.
+	
+	
+	https://en.code-bude.net/2013/10/17/qrcoder-an-open-source-qr-code-generator-implementation-in-csharp/
+	https://www.codeproject.com/Articles/20574/Open-Source-QRCode-Library
+	
