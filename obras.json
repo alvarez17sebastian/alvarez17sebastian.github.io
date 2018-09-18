@@ -1,0 +1,36 @@
+{
+  "works": [
+    {
+      "name": "AVIVA",
+      "modules": [
+        {
+          "name": "Module 1 AVIVA",
+          "submodules": [
+            {
+              "name": "Sub-Modulo 1 AVIVA"
+            },
+            {
+              "name": "Sub-Modulo 2 AVIVA"
+            }
+          ]
+        },
+        {
+          "name": "Module 2 AVIVA"
+        }
+      ]
+    },
+    {
+      "name": "AMONTE",
+      "modules": [
+        {
+          "name": "Sub-Modulo 1 AMONTE",
+          "submodules": [
+            {
+              "name": "Sub-Modulo 1 AMONTE"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
