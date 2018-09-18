@@ -15,7 +15,8 @@
           ]
         },
         {
-          "name": "Module 2 AVIVA"
+          "name": "Module 2 AVIVA",
+          "submodules":[]
         }
       ]
     },
