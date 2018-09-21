@@ -4,13 +4,13 @@
       "name": "AVIVA",
       "modules": [
         {
-          "name": "Module 1 AVIVA",
+          "name": "Torre 9",
           "submodules": [
             {
-              "name": "Sub-Modulo 1 AVIVA"
+              "name": "Aprtamentos"
             },
             {
-              "name": "Sub-Modulo 2 AVIVA"
+              "name": "Zonas comunes"
             }
           ]
         },
@@ -24,10 +24,10 @@
       "name": "AMONTE",
       "modules": [
         {
-          "name": "Sub-Modulo 1 AMONTE",
+          "name": "Torre 10",
           "submodules": [
             {
-              "name": "Sub-Modulo 1 AMONTE"
+              "name": "Acometidas"
             }
           ]
         }
