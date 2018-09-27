@@ -68,7 +68,7 @@
           "listSubChapters": [
             {
               "code": 200,
-              "name": "ESTRUCTURA 2",
+              "name": "ESTRUCTURA 2(sub-capitulo)",
               "startDate": "15/02/2017",
               "finishDate": "6/09/2017",
               "advance": 0.3872,
