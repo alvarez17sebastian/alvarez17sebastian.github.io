@@ -7,11 +7,11 @@
       "name": "FUNDACIONES",
       "startDate": "12/12/2016",
       "finishDate": "20/02/2017",
-      "cost": 350000000.00,
+      "cost": 350000000,
       "average": 0.5,
       "advance": 0.99,
-      "listActivities": [],
-      "listSubChapters": []
+      "listSubChapters": [],
+      "listActivities": []
     },
     {
       "code": 200,
@@ -19,45 +19,7 @@
       "startDate": "15/02/2017",
       "finishDate": "6/09/2017",
       "advance": 0.377,
-      "cost": 1517383202.00,
-      "average": 0.5,
-      "listActivities": [
-            {
-              "code": 1,
-              "name": "MUROS Y LOSA APARTAMENTOS (Estructura)",
-              "startDate": "15/02/2017",
-              "finishDate": "16/08/2017",
-              "advance": 0.58
-            },
-            {
-              "code": 2,
-              "name": "ANTEPECHOS (Estructura)",
-              "startDate": "4/05/2017",
-              "finishDate": "5/09/2017",
-              "advance": 0.58
-            },
-            {
-              "code": 3,
-              "name": "ARM. Y VACIADO ANTEPECHO PASAMANOS (Estructura)",
-              "startDate": "4/05/20",
-              "finishDate": "6/09/2017",
-              "advance": 0.58
-            },
-            {
-              "code": 4,
-              "name": "ARM Y VAC ÁTICOS CUBIERTA (Estructura)",
-              "startDate": "17/08/2017",
-              "finishDate": "6/09/2017",
-              "advance": 0.58
-            },
-            {
-              "code": 5,
-              "name": "ARM Y VAC CUARTO MÁQUINAS (Estructura)",
-              "startDate": "17/08/2017",
-              "finishDate": "28/08/2017",
-              "advance": 0.58
-            }
-          ],
+      "cost": 1517383202,
       "listSubChapters": [
         {
           "code": 200,
@@ -65,7 +27,7 @@
           "startDate": "15/02/2017",
           "finishDate": "6/09/2017",
           "advance": 0.3872,
-          "cost": 1517383202.00,
+          "cost": 1517383202,
           "listActivities": [
             {
               "code": 1,
@@ -102,16 +64,25 @@
               "finishDate": "28/08/2017",
               "advance": 0.58
             }
+          ],
+          "listSubChapters": [
+            {
+              "code": 200,
+              "name": "ESTRUCTURA 2",
+              "startDate": "15/02/2017",
+              "finishDate": "6/09/2017",
+              "advance": 0.3872,
+              "cost": 1517383202
+            }
           ]
         },
-        
         {
           "code": 500,
           "name": "ESTRUCTURA 3",
           "startDate": "15/02/2017",
           "finishDate": "6/09/2017",
           "advance": 0.3872,
-          "cost": 1517383202.00,
+          "cost": 1517383202,
           "listActivities": [
             {
               "code": 1,
@@ -149,6 +120,44 @@
               "advance": 0.58
             }
           ]
+        }
+      ],
+      "average": 0.5,
+      "listActivities": [
+        {
+          "code": 1,
+          "name": "MUROS Y LOSA APARTAMENTOS (Estructura)",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 2,
+          "name": "ANTEPECHOS (Estructura)",
+          "startDate": "4/05/2017",
+          "finishDate": "5/09/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 3,
+          "name": "ARM. Y VACIADO ANTEPECHO PASAMANOS (Estructura)",
+          "startDate": "4/05/20",
+          "finishDate": "6/09/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 4,
+          "name": "ARM Y VAC ÁTICOS CUBIERTA (Estructura)",
+          "startDate": "17/08/2017",
+          "finishDate": "6/09/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 5,
+          "name": "ARM Y VAC CUARTO MÁQUINAS (Estructura)",
+          "startDate": "17/08/2017",
+          "finishDate": "28/08/2017",
+          "advance": 0.58
         }
       ]
     }
