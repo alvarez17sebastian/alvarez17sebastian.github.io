@@ -1,0 +1,37 @@
+{
+  "project": [
+    {
+      "name": "AVIVA",
+      "structures": [
+        {
+          "name": "Torre 9",
+          "spaces": [
+            {
+              "name": "Aprtamentos"
+            },
+            {
+              "name": "Zonas comunes"
+            }
+          ]
+        },
+        {
+          "name": "Torrea 10",
+          "spaces":[]
+        }
+      ]
+    },
+    {
+      "name": "AMONTE",
+      "structures": [
+        {
+          "name": "Torre 11",
+          "spaces": [
+            {
+              "name": "Acometidas."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
