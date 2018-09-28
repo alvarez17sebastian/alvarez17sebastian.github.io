@@ -2,10 +2,10 @@
   "works": [
     {
       "name": "AVIVA",
-      "modules": [
+      "estructura": [
         {
           "name": "Torre 9",
-          "submodules": [
+          "espacios": [
             {
               "name": "Aprtamentos"
             },
@@ -22,10 +22,10 @@
     },
     {
       "name": "AMONTE",
-      "modules": [
+      "estructura": [
         {
           "name": "Torre 11",
-          "submodules": [
+          "espacios": [
             {
               "name": "Acometidas"
             }
