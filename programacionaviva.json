@@ -1,6 +1,6 @@
 {
-  "work": "CIUDAD DEL PARQUE-AVIVA",
-  "module": "TORRE 11",
+  "project": "CIUDAD DEL PARQUE-AVIVA",
+  "structure": "TORRE 11",
   "listChapters": [
     {
       "code": 100,
@@ -172,6 +172,6 @@
       ]
     }
   ],
-  "subModule": "Apartamento 102",
+  "space": "Apartamento 102",
   "realizationAdvanceDate": "23/05/2018"
 }
