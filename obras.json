@@ -1,33 +1,54 @@
 {
-  "works": [
+  "projects": [
     {
       "name": "AVIVA",
-      "modules": [
+      "structures": [
         {
           "name": "Torre 9",
-          "submodules": [
+          "floors": [
             {
-              "name": "Aprtamentos"
-            },
-            {
-              "name": "Zonas comunes"
+              "floor": 12,
+              "spaces": [
+                {
+                  "name": "Aprtamentos"
+                },
+                {
+                  "name": "Zonas comunes"
+                }
+              ]
             }
           ]
         },
         {
           "name": "Torrea 10",
-          "submodules":[]
+          "spaces": []
         }
       ]
     },
     {
       "name": "AMONTE",
-      "modules": [
+      "structures": [
         {
           "name": "Torre 11",
-          "submodules": [
+          "floors": [
             {
-              "name": "Acometidas."
+              "floor": 25,
+              "spaces": [
+                {
+                  "name": "Acometidas."
+                },
+                {
+                  "name": "Zona de juegos"
+                }
+              ]
+            },
+            {
+              "floor": 30,
+              "spaces": [
+                {
+                  "name": "Gym"
+                }
+              ]
             }
           ]
         }
