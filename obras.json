@@ -21,7 +21,19 @@
         },
         {
           "name": "Torrea 10",
-          "spaces": []
+          "floors": [
+            {
+              "floor": 75,
+              "spaces": [
+                {
+                  "name": "Espacio x"
+                },
+                {
+                  "name": "Espacio y"
+                }
+              ]
+            }
+          ]
         }
       ]
     },
