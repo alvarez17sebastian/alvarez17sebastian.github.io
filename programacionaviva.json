@@ -188,7 +188,7 @@
       "name": "INSTALACIONES HIDROSANITARIAS",
       "startDate": "07/04/2017",
       "finishDate": "09/10/2017",
-      "advance": 0.377,
+      "advance": 0.36,
       "cost": 1517383202,
       "average": 0.5,
       "listActivities": [
@@ -198,15 +198,102 @@
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
           "advance": 0.58
-        },{
+        },
+        {
           "code": 1,
           "name": "INST. HIDRAULICAS",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
           "advance": 0.58
-        },{
+        },
+        {
           "code": 1,
           "name": "INST. MEZCLADORES DE DUCHA",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        }
+      ]
+    },
+    {
+      "code": 200,
+      "name": "INSTALACIONES ELECTRICAS",
+      "startDate": "12/04/2017",
+      "finishDate": "09/10/2017",
+      "advance": 0.25,
+      "cost": 1517383202,
+      "average": 0.5,
+      "listActivities": [
+        {
+          "code": 1,
+          "name": "INST. ELECTRICAS",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 2,
+          "name": "ALAMBRADA",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        }
+      ]
+    },
+    {
+      "code": 200,
+      "name": "MAMPOST, REVOQUES Y RESANES",
+      "startDate": "12/04/2017",
+      "finishDate": "09/10/2017",
+      "advance": 0.25,
+      "cost": 1517383202,
+      "average": 0.5,
+      "listActivities": [
+        {
+          "code": 1,
+          "name": "MAMPOSTERIA INTERNA(ropas,baños,cocina,nicho)",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 2,
+          "name": "MAMPOSTERIA A LA VISTA",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 2,
+          "name": "CIERRE DE BUITRONES(punto fijo)",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 2,
+          "name": "CIERRE DE ASCENSORES",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 2,
+          "name": "RESANE ESTRUCTURA(punto fijo)",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 2,
+          "name": "RESANE APARTAMENTOS",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 2,
+          "name": "REVOQUES",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
           "advance": 0.58
