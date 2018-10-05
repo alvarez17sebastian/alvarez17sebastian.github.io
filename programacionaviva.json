@@ -262,14 +262,16 @@
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
           "advance": 0.58
-        },
+        }
+        ,
         {
           "code": 2,
           "name": "CIERRE DE BUITRONES(punto fijo)",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
           "advance": 0.58
-        },
+        }
+        ,
         {
           "code": 2,
           "name": "CIERRE DE ASCENSORES",
@@ -294,6 +296,38 @@
         {
           "code": 2,
           "name": "REVOQUES",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        }
+      ]
+    },
+    {
+      "code": 200,
+      "name": "PISOS",
+      "startDate": "12/04/2017",
+      "finishDate": "09/10/2017",
+      "advance": 0.25,
+      "cost": 1517383202,
+      "average": 0.5,
+      "listActivities": [
+        {
+          "code": 1,
+          "name": "NIVELACION",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 2,
+          "name": "MORTERO",
+          "startDate": "15/02/2017",
+          "finishDate": "16/08/2017",
+          "advance": 0.58
+        },
+        {
+          "code": 2,
+          "name": "JUNTAS",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
           "advance": 0.58
