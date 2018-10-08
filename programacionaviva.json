@@ -9,14 +9,14 @@
       "finishDate": "20/02/2017",
       "cost": 350000000,
       "average": 0.5,
-      "advance": 0.99
+      "advance": 0.0
     },
     {
       "code": 200,
       "name": "ESTRUCTURA",
       "startDate": "15/02/2017",
       "finishDate": "6/09/2017",
-      "advance": 0.377,
+      "advance": 0.0,
       "cost": 1517383202,
       "listChapters": [
         {
@@ -24,7 +24,7 @@
           "name": "ESTRUCTURA 2",
           "startDate": "15/02/2017",
           "finishDate": "6/09/2017",
-          "advance": 0.3872,
+          "advance": 0.0,
           "cost": 1517383202,
           "listActivities": [
             {
@@ -32,35 +32,35 @@
               "name": "MUROS Y LOSA APARTAMENTOS (Estructura2)",
               "startDate": "15/02/2017",
               "finishDate": "16/08/2017",
-              "advance": 0.58
+              "advance": 0.0
             },
             {
               "code": 2,
               "name": "ANTEPECHOS (Estructura2)",
               "startDate": "4/05/2017",
               "finishDate": "5/09/2017",
-              "advance": 0.58
+              "advance": 0.0
             },
             {
               "code": 3,
               "name": "ARM. Y VACIADO ANTEPECHO PASAMANOS (Estructura2)",
               "startDate": "4/05/20",
               "finishDate": "6/09/2017",
-              "advance": 0.58
+              "advance": 0.0
             },
             {
               "code": 4,
               "name": "ARM Y VAC ÁTICOS CUBIERTA (Estructura2)",
               "startDate": "17/08/2017",
               "finishDate": "6/09/2017",
-              "advance": 0.58
+              "advance": 0.0
             },
             {
               "code": 5,
               "name": "ARM Y VAC CUARTO MÁQUINAS (Estructura2)",
               "startDate": "17/08/2017",
               "finishDate": "28/08/2017",
-              "advance": 0.58
+              "advance": 0.0
             }
           ],
           "listChapters": [
@@ -69,7 +69,7 @@
               "name": "ESTRUCTURA 2(sub-capitulo)",
               "startDate": "15/02/2017",
               "finishDate": "6/09/2017",
-              "advance": 0.3872,
+              "advance": 0.0,
               "cost": 1517383202
             }
           ]
@@ -79,7 +79,7 @@
           "name": "ESTRUCTURA 3",
           "startDate": "15/02/2017",
           "finishDate": "6/09/2017",
-          "advance": 0.3872,
+          "advance": 0.0,
           "cost": 1517383202,
           "listActivities": [
             {
@@ -87,35 +87,35 @@
               "name": "MUROS Y LOSA APARTAMENTOS (Estructura3)",
               "startDate": "15/02/2017",
               "finishDate": "16/08/2017",
-              "advance": 0.8
+              "advance": 0.0
             },
             {
               "code": 10,
               "name": "ANTEPECHOS (Estructura3)",
               "startDate": "4/05/2017",
               "finishDate": "5/09/2017",
-              "advance": 0.58
+              "advance": 0.0
             },
             {
               "code": 11,
               "name": "ARM. Y VACIADO ANTEPECHO PASAMANOS (Estructura3)",
               "startDate": "4/05/20",
               "finishDate": "6/09/2017",
-              "advance": 0.58
+              "advance": 0.0
             },
             {
               "code": 12,
               "name": "ARM Y VAC ÁTICOS CUBIERTA (Estructura3)",
               "startDate": "17/08/2017",
               "finishDate": "6/09/2017",
-              "advance": 0.58
+              "advance": 0.0
             },
             {
               "code": 13,
               "name": "ARM Y VAC CUARTO MÁQUINAS (Estructura3)",
               "startDate": "17/08/2017",
               "finishDate": "28/08/2017",
-              "advance": 0.58
+              "advance": 0.0
             }
           ],
           "listChapters": [
@@ -124,7 +124,7 @@
               "name": "ESTRUCTURA 3(sub-capitulo)",
               "startDate": "15/02/2017",
               "finishDate": "6/09/2017",
-              "advance": 0.3872,
+              "advance": 0.0,
               "cost": 1517383202
             }
           ]
@@ -137,49 +137,49 @@
           "name": "MUROS Y LOSA APARTAMENTOS",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 2,
           "name": "ANTEPECHOS",
           "startDate": "4/05/2017",
           "finishDate": "5/09/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 3,
           "name": "ARM. Y VACIADO ANTEPECHO PASAMANOS",
           "startDate": "4/05/20",
           "finishDate": "6/09/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 4,
           "name": "ARM Y VAC ÁTICOS CUBIERTA",
           "startDate": "17/08/2017",
           "finishDate": "6/09/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 5,
           "name": "ARM Y VAC CUARTO MÁQUINAS",
           "startDate": "17/08/2017",
           "finishDate": "28/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 6,
           "name": "LOSA CUARTO MAQUINAS",
           "startDate": "17/08/2017",
           "finishDate": "28/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 7,
           "name": "ESCALAS",
           "startDate": "30/03/2017",
           "finishDate": "24/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         }
       ]
     },
@@ -190,28 +190,28 @@
       "finishDate": "09/10/2017",
       "advance": 0.36,
       "cost": 1517383202,
-      "average": 0.5,
+      "average": 0.0,
       "listActivities": [
         {
           "code": 1,
           "name": "INST. SANITARIAS",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 1,
           "name": "INST. HIDRAULICAS",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 1,
           "name": "INST. MEZCLADORES DE DUCHA",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         }
       ]
     },
@@ -220,7 +220,7 @@
       "name": "INSTALACIONES ELECTRICAS",
       "startDate": "12/04/2017",
       "finishDate": "09/10/2017",
-      "advance": 0.25,
+      "advance": 0.0,
       "cost": 1517383202,
       "average": 0.5,
       "listActivities": [
@@ -229,14 +229,14 @@
           "name": "INST. ELECTRICAS",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 2,
           "name": "ALAMBRADA",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         }
       ]
     },
@@ -245,7 +245,7 @@
       "name": "MAMPOST, REVOQUES Y RESANES",
       "startDate": "12/04/2017",
       "finishDate": "09/10/2017",
-      "advance": 0.25,
+      "advance": 0.0,
       "cost": 1517383202,
       "average": 0.5,
       "listActivities": [
@@ -254,14 +254,14 @@
           "name": "MAMPOSTERIA INTERNA(ropas,baños,cocina,nicho)",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 2,
           "name": "MAMPOSTERIA A LA VISTA",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         }
         ,
         {
@@ -269,7 +269,7 @@
           "name": "CIERRE DE BUITRONES(punto fijo)",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         }
         ,
         {
@@ -277,28 +277,28 @@
           "name": "CIERRE DE ASCENSORES",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 2,
           "name": "RESANE ESTRUCTURA(punto fijo)",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 2,
           "name": "RESANE APARTAMENTOS",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 2,
           "name": "REVOQUES",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         }
       ]
     },
@@ -307,7 +307,7 @@
       "name": "PISOS",
       "startDate": "12/04/2017",
       "finishDate": "09/10/2017",
-      "advance": 0.25,
+      "advance": 0.0,
       "cost": 1517383202,
       "average": 0.5,
       "listActivities": [
@@ -316,21 +316,21 @@
           "name": "NIVELACION",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 2,
           "name": "MORTERO",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         },
         {
           "code": 2,
           "name": "JUNTAS",
           "startDate": "15/02/2017",
           "finishDate": "16/08/2017",
-          "advance": 0.58
+          "advance": 0.0
         }
       ]
     }
