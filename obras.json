@@ -7,7 +7,7 @@
           "name": "Torre 9",
           "floors": [
             {
-              "floor": 400,
+              "floor": "400",
               "spaces": [
                 {
                   "name": "Apartamentos"
@@ -23,7 +23,7 @@
           "name": "Torrea 10",
           "floors": [
             {
-              "floor": 401,
+              "floor": "401",
               "spaces": [
                 {
                   "name": "Espacio x"
@@ -44,7 +44,7 @@
           "name": "Torre 11",
           "floors": [
             {
-              "floor": 404,
+              "floor": "404",
               "spaces": [
                 {
                   "name": "Acometidas."
@@ -55,7 +55,7 @@
               ]
             },
             {
-              "floor": 450,
+              "floor": "450",
               "spaces": [
                 {
                   "name": "Gym"
